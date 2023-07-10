@@ -7,10 +7,6 @@
 - ⚡ Fun fact: I love listening music but i cant play any instrument. I'm addict 
 - 👯 If u want u can check my subtitles: https://subscene.com/u/1210603
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/keci_legend?si=3a3d69d05e5a421f)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
