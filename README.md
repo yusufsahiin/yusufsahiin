@@ -3,7 +3,7 @@
 ### Yusuf Şahin's GitHub
 
 - 🔭  I’m Electrical-Electronic & Computer Engineer. Now I'm working as a SAP ABAP / CRM Consultant💻
-- 🌱 I’m currently learning Python, Javascript, React, Flutter and Fiori
+- 🌱 I’m currently learning Javascript, React and Flutter
 - ⚡ Fun fact: I love listening music but i cant play any instrument. I'm addict 
 - 👯 If u want u can check my subtitles: https://subscene.com/u/1210603
 
