@@ -1,4 +1,5 @@
 ### Hi there, I'm Yusuf
+![giphy](https://github.com/yusufsahiin/yusufsahiin/assets/74300214/32f5a636-429d-45d7-b1ca-b03177265839)
 
 ### Yusuf Şahin's GitHub
 
