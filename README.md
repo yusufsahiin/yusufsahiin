@@ -1,8 +1,5 @@
 ### Hi there, I'm Yusuf
-![giphy](https://github.com/yusufsahiin/yusufsahiin/assets/74300214/32f5a636-429d-45d7-b1ca-b03177265839)
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/yusufsahiin/yusufsahiin/assets/74300214/4b351bd6-d890-4c75-a6dd-ac7f4e6ad243)
-![226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af](https://github.com/yusufsahiin/yusufsahiin/assets/74300214/8ae9f9d5-7c88-46f8-9296-a70c11dff30a)
-![212750996-938b257b-266c-45a7-9af7-655341c0f58b](https://github.com/yusufsahiin/yusufsahiin/assets/74300214/e61814d6-4845-43c4-8b84-f7647c10039a)
 
 ### Yusuf Şahin's GitHub
 
@@ -11,6 +8,7 @@
 - ⚡ Fun fact: I love listening music but i cant play any instrument.
 - 👯 If u want u can check my subtitles: https://subscene.com/u/1210603
 
+![giphy](https://github.com/yusufsahiin/yusufsahiin/assets/74300214/32f5a636-429d-45d7-b1ca-b03177265839)
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
